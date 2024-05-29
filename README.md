@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @shashank319
-- 👀 I’m interested in MERN STACK
-- 🌱 I’m currently learning MERN
-- 📫 How to reach me  shashank.amradi33@gmail.com
+- 👋 Hi, I’m Shashank Amradi
+- 👀 I’m interested in Full Stack Development
+- 📫 How to reach me  shashankamradi@gmail.com
 
 <!---
 shashank319/shashank319 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
